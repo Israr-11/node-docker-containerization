@@ -1,7 +1,6 @@
 # Docker images for Node js Application
 These APIs have all the endpoints required to post, delete, edit, and get the user. 
-![image](https://github.com/Israr-11/node-docker-containerization/assets/91403838/45479318-0071-4fa8-8c03-0d7355eebedd)
-
+![image](https://github.com/Israr-11/node-docker-containerization/assets/91403838/6efbc065-08b0-4cee-8a39-9b99df62eeae)
 
 ## `Follow these instructions to run the API successfully`
 
